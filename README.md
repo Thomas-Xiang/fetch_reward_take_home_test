@@ -1,6 +1,8 @@
 In this exercise you will:
 Demonstrate how you reason about data and how you communicate your understanding of a specific data set to others. 
+
 What are the requirements?
+
 Review CSV data and diagram a new structured relational data model
 Generate a query that answers a predetermined business question(s) 
 Choose something noteworthy to share with a non-technical stakeholder
